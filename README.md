@@ -1,35 +1,17 @@
-# webshop-deel2
+# Individuele opdracht - Deel 2
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue.js
 
-## Recommended IDE Setup
+## Student
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Naam: [voornaam] [achternaam]
 
-## Customize configuration
+Studentnummer: [00000000]
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+E-mail: [voornaam.achternaam@student.pxl.be]
 
-## Project Setup
+## Webshop
 
-```sh
-npm install
-```
+Onderwerp:
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Omschrijving:
